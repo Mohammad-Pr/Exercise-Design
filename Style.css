@@ -1,0 +1,41 @@
+.l{
+    width: 100%;
+    margin-left: 10px;
+    color: rgb(164, 164, 164);
+}
+.inp{
+    width: 95%;
+    margin-left: 10px;
+    background-color: rgb(84, 111, 122);
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    color: white;
+    text-align: right;
+}
+.inp:focus{
+    outline: none;
+}
+
+.btn1{
+    width: 95%;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: rgb(144, 164, 173);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
+.btn2{
+    width: 95%;
+    margin-left: 10px;
+    height: 50px;
+    border-radius: 6px;
+    background-color: rgb(144, 164, 173);
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
